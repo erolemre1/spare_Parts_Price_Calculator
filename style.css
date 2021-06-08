@@ -1,0 +1,17 @@
+.card-footer p {
+    display: flex;
+    justify-content: flex-end;
+}
+.navbar .container {
+    margin-top: 0px;
+    
+}
+.container {
+    margin-top: 20px;
+}
+
+
+
+tbody tr td:nth-child(4){
+  text-align: right;
+}
